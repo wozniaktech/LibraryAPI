@@ -1,4 +1,4 @@
-Treść zadania rekrutacyjnego:
+**Treść zadania rekrutacyjnego:**
 
 "Stwórz REST API, które będzie modułem biblioteki (wypożyczalni książek) odpowiedzialnym za zarządzanie książkami.
 
@@ -24,7 +24,7 @@ Na potrzeby zadania nie przejmujemy się tym, kto książkę wypożyczył.
 
 Konsument API musi mieć możliwość wykonywania operacji CRUD oraz możliwość sortowania i stronicowania listy książek."
 
-Uwagi:
+**Uwagi:**
 
 Do wykonania zadania wykorzystany został .Net 8, WebApi, EF in-memory. 
 
