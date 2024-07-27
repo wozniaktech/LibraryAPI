@@ -26,9 +26,8 @@ Konsument API musi mieć możliwość wykonywania operacji CRUD oraz możliwoś�
 
 **Uwagi:**
 
-Do wykonania zadania wykorzystany został .Net 8, WebApi, EF in-memory. 
+Do wykonania zadania wykorzystany został .Net 8, WebApi, EF in-memory, MediatR, FluentValidation oraz Swagger.
 
-Zastosowane zostały wzroce projektowe CQRS, oraz Mediator.
+Zastosowane zostały wzorce projektowe CQRS, oraz Mediator.
 
-Dodane zostały testy jednostkowe kontrolera z wykorzystaniem NUnit oraz NSubstitute.
-
+Dodatkowo zostały dodane testy jednostkowe kontrolera z wykorzystaniem NUnit oraz NSubstitute.
