@@ -30,4 +30,4 @@ Do wykonania zadania wykorzystany został .Net 8, WebApi, EF in-memory, MediatR,
 
 Zastosowane zostały wzorce projektowe CQRS, oraz Mediator.
 
-Dodatkowo zostały dodane testy jednostkowe kontrolera z wykorzystaniem NUnit oraz NSubstitute.
+Dodatkowo zostały dodane testy jednostkowe kontrolera, oraz commands/queries z wykorzystaniem NUnit oraz NSubstitute.
